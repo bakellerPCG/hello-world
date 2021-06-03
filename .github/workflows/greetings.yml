@@ -13,4 +13,4 @@ jobs:
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: 'First Issue, eh?   Good luck!'
-        pr-message: 'Are you seriously kidding?  A pull request?   Don't ask me, I'm just trying to figure this out myself'
+        pr-message: 'Are you seriously kidding?  A pull request?   Don't ask me, I am just trying to figure this out myself'
